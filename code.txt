@@ -1,0 +1,4 @@
+conda -n for 3.7
+activate it
+requi.txt
+python app.pygit a
